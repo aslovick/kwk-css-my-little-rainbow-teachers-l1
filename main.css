@@ -1,3 +1,5 @@
+<head>
+  <link rel="stylesheet" type="text/css" href="main.css">
 div {
   border: 20px solid #000; /* this is short hand for setting
                             the border's width, its type, and color */
@@ -13,3 +15,4 @@ div {
 #violet {
   background-color: blue;
 }
+</head>
